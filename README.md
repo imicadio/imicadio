@@ -1,6 +1,6 @@
 # Hi there 👋! I'm Michał Jeszko.
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/michal-jeszko/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michal-jeszko/)
 
 I'm Michał Jeszko - Frontend Developer. 
 
@@ -13,4 +13,4 @@ I have worked in different languages from backend to frontend. I'm currently foc
 
 ## 📫 Contact
 
-Get in touch: mrjesio@gmail.com or ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/michal-jeszko/)
+Get in touch: mrjesio@gmail.com or [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michal-jeszko/)
