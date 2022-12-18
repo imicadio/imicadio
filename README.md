@@ -22,8 +22,8 @@ I have worked in different languages from backend to frontend. I'm currently foc
 
 | E-shop  | Rick and Morty API |
 | ------------- | ------------- |
-| [![alt text](https://github.com/imicadio/e-shop-material-ui/blob/develop/src/assets/git/cart.png?raw=true)](https://github.com/imicadio/e-shop-material-ui)  |   |
-| Live: https://e-shop-material-ui.vercel.app/ | Live: https://vercel.com/imicadio/rick-and-morty |
+| [![alt text](https://github.com/imicadio/e-shop-material-ui/blob/develop/src/assets/git/cart.png?raw=true)](https://github.com/imicadio/e-shop-material-ui)  | [![Rick and Morty](https://github.com/imicadio/rick-and-morty/blob/master/src/assets/rick_and_morty.png?raw=true)](https://github.com/imicadio/rick-and-morty)   |
+| Live: https://e-shop-material-ui.vercel.app/ | Live: https://rick-and-morty-chi-five.vercel.app/ |
 | Login: test@test.pl  |   |
 | password: password123  |   |
 ## 📫 Contact
