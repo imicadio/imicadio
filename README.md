@@ -18,6 +18,14 @@ I have worked in different languages from backend to frontend. I'm currently foc
 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)  ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
+## Projects
+
+| E-shop  | Rick and Morty API |
+| ------------- | ------------- |
+| ![alt text](https://github.com/imicadio/e-shop-material-ui/blob/develop/src/assets/git/cart.png?raw=true)  |   |
+| Live: https://e-shop-material-ui.vercel.app/ | Live: https://vercel.com/imicadio/rick-and-morty |
+| Login: test@test.pl  |   |
+| password: password123  |   |
 ## 📫 Contact
 
 Get in touch: mrjesio@gmail.com or [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michal-jeszko/)
